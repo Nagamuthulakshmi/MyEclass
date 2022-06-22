@@ -1,0 +1,36 @@
+Resume:
+
+1. Dont use templates
+use Google Templates, Canva Templates.
+
+Google Docs--> Templates
+www.canva.com --> Resumes
+1. Profile pic - No cooling glasses, No selfie. White background . Passport picture.
+2. Name - bold
+Tagname - Small
+
+3. Phone - +91 000-000-0000
+4. Address - not complete adddress. (Anna nagar-West, Chennai - 000 000)
+5. Gmail id- Personal - gmail id, PRoffesion- gmail id---->Resume.
+   standard name for gmail
+6. Linked in id, github id, blog id.
+7. Experienced - Company bold, desigaton-light, duration (from-to year), short description.
+8. Education - no table. Masters/ug/schooling(12,10),clg,duration, percentage (60+), short description.
+9. Project - it related projects.
+Good name, Technologies used: python, frameworks, pycharm/anac, Short descrition.
+10. Achievements: 
+Certificates name
+--the hard work, challenges, who gave, validity, date that you got the certifiate
+11. Skills:
+Interpersonal skills: Hard worker, Passionate, career driven, Responsible, great communicator.
+Technical Skills: 
+Languages
+IDE
+OS Windows, Linux, MAC, Android..
+Databases Firebase
+Cloud AWS,Azure
+12. Extra - Curricular:
+---Team building, leaderskip,Learner - (Mehindi, Cooking, Drawing, Martial Arts, Karate,chess,Singing, Music)  ---> Hackathon - Coding competition
+
+Maximum - 2 Pages.
+

@@ -1,0 +1,19 @@
+source code----> compiler------> Intermediate Object Code -----> Machine code
+hello.java-----> compiler------> hello.byte------->MAchine code
+--->High memory because it generates another file. so to store that file, it consumes memory
+----converts high level lang to machine(low level)
+
+
+source code----> interpreter----> Machine code
+hello.py-------> interpreter----> Machine code
+---->Low memory
+-----converts high level lan to mach(low level)
+
+source code----> Assembler---->Machine code
+assembly code--> Assembler---->MAchine code
+add
+return
+go to
+operand
+register
+--------mid level lang to machine code(low level)
